@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HW_06.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW_06.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HW_06Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HW_06">
+      <UniqueIdentifier>{6BA45190-294E-3387-8675-06E97E8137DF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW_06\HW_06.Build.cs">
+      <Filter>Source\HW_06</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HW_06\HW_06.cpp">
+      <Filter>Source\HW_06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW_06\HW_06.h">
+      <Filter>Source\HW_06</Filter>
+    </ClCompile>
+    <Filter Include="Source\HW_06\Private">
+      <UniqueIdentifier>{94247E92-1245-3F0D-933F-BF34AED2BD07}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HW_06\Private\DiagonalActor.cpp">
+      <Filter>Source\HW_06\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW_06\Private\MovementActor.cpp">
+      <Filter>Source\HW_06\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW_06\Private\MovementActorY.cpp">
+      <Filter>Source\HW_06\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW_06\Private\RotationActor.cpp">
+      <Filter>Source\HW_06\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\HW_06\Public">
+      <UniqueIdentifier>{B95800BE-7444-33E7-96E0-42ADAFD63EFB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HW_06\Public\DiagonalActor.h">
+      <Filter>Source\HW_06\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW_06\Public\MovementActor.h">
+      <Filter>Source\HW_06\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW_06\Public\MovementActorY.h">
+      <Filter>Source\HW_06\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW_06\Public\RotationActor.h">
+      <Filter>Source\HW_06\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

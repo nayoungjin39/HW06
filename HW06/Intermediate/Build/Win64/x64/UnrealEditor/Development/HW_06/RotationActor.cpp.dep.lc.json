@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\hello_world\\unreal project\\hw_06\\source\\hw_06\\private\\rotationactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\hello_world\\unreal project\\hw_06\\intermediate\\build\\win64\\x64\\hw_06editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\hello_world\\unreal project\\hw_06\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw_06\\definitions.hw_06.h",
+            "c:\\hello_world\\unreal project\\hw_06\\source\\hw_06\\public\\rotationactor.h",
+            "c:\\hello_world\\unreal project\\hw_06\\intermediate\\build\\win64\\unrealeditor\\inc\\hw_06\\uht\\rotationactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

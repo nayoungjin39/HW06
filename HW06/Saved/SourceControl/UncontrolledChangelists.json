@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/hello_world/git/git/HW06/HW06/Content/Map/GameLevel.umap",
+				"C:/hello_world/git/git/HW06/HW06/Content/BluePrints/BP_DiagonalActor.uasset",
+				"C:/hello_world/git/git/HW06/HW06/Content/SkyTown/Meshes/SM_House02.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/Map/GameLevel.umap",
+				"C:/hello_world/unreal project/HW_06/Content/BluePrints/MyRotationActor.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BluePrints/MyRotationActor1.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BluePrints/BP_MovementActor.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BluePrints/BP_MovementActorX.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BluePrints/BP_MovementActorY.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BluePrints/BP_DiagonalActor.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BluePrints/MyMovementActorY.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BP_MovementActorY.uasset",
+				"C:/hello_world/unreal project/HW_06/Content/BP_MovementActor.uasset"
+			]
+		}
+	]
+}
